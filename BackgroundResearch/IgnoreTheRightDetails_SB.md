@@ -1,0 +1,6 @@
+## Her key to modelling brains: ignore the right details
+Employing ideas and concepts from mathematics, like Carina Curto does, is an unconventional and unique approach to tackling fundamental neuroscience questions. The article stresses how important using a ‘beautiful’ model which simplifies the problem to include the essentials, whilst still retaining the complexity of what makes it a problem, is. The article also discusses how useful this approach has been in Curto’s studies of connectomics – the study of connections in the brain. 
+
+Furthermore, the article also suggests that the method of working with simpler models, including only the essentials, is also the most effective way of creating hypotheses. The mathematically analysable models can also be tested easily, making the models easier to develop in the future. Finally, the article also includes some of Curto’s own models, which help provide insights into the practical uses of these models.
+
+The article could also cover any examples of similar mathematical approaches to neuroscience, or any other ‘beautiful’ models other than Curto’s. It could also address any risks of oversimplifying or obscuring details in a model, and if it will still provide accurate and meaningful results when compared to the more detailed and complex models.
