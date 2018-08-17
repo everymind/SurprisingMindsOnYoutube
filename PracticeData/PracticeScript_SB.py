@@ -8,4 +8,8 @@ plt.xlabel('Time')
 plt.ylabel('Area of Pupil')
 plt.title('Area of Pupil Against Time - Data 1')
 
+plt.savefig("GraphOne.png")
+
 plt.show()
+
+
