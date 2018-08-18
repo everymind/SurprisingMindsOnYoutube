@@ -16,7 +16,7 @@ Lunch break start:
 Lunch break end:  
 Day end:  
 
-/# of participants:   
+Number of participants:   
 Estimated average age group:  
 Brief description of the day:   
 Highlights from conversations with participants and/or folks who stopped to chat:  
