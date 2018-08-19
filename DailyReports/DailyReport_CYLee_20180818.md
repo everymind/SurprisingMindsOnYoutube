@@ -1,14 +1,14 @@
-Date:20180818
+Date:20180818  
 Name of hosts: Dara, Lauren, Sarayu, Danbee, Goncalo, Chi-yu
 
-Day start:1pm
-Lunch break start:
-Lunch break end:
-Day end:2pm
+Day start:1pm  
+Lunch break start:  
+Lunch break end:  
+Day end:2pm  
 
-Number of participants:2
-Estimated average age group:30s
-Brief description of the day:
+Number of participants:2  
+Estimated average age group:30s  
+Brief description of the day:  
 we first ran demo at the SWC to adjust the setup. For some reasons, the pupil detection did not go well on Dara with her glasses
 on (so she had to put on the setup first before putting on her glasses), but I did not encounter this problem. 
 
