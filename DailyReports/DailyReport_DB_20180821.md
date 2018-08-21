@@ -9,7 +9,7 @@
 <br><br>
 **Brief description of the day:** 
 <br>
-Today was a relatively slow day - more so at the beginning (meaning more participants were recuited in the afternoon). It was difficult to engage with tourists at times due to language barriers, yet in the end we did succeed in gathering a somewhat more diverse group of people (of the 9 participants, 2 were children). 
+Today was a relatively slow day - more so at the beginning (meaning more participants were recuited in the afternoon). It was difficult to engage with tourists at times due to language barriers, yet in the end we did succeed in gathering a somewhat more diverse group of people (of the 9 participants, 2 were children). <BR><BR>Lighting was much better when seated and when in the shade, though at times there were a few issues with contrast (regardless, the tracking worked well overall).
 <br><br>
 **Highlights from conversations with participants and/or folks who stopped to chat:** 
 <br>
