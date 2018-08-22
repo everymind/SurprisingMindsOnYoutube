@@ -3,26 +3,22 @@ layout: single
 author_profile: false
 header:
   image: /assets/images/SurprisingMinds_header_small.png
-excerpt: "An exhibit at Sea Life Brighton that uses eye-tracking to bring neuroscience 'into the wild'! "
+excerpt: "An interactive field neuroscience experiment that uses a mobile eye-tracking and -recording setup into Regent's Park!"
 sidebar:  
   nav: docs
 tags:
-  - Sea Life Brighton
+  - field neuroscience
   - projects
   - exhibit
-  - science in the wild
+  - internship 2018 summer
 gallery: 
   - url: https://www.ucl.ac.uk/swc
     image_path: /assets/images/SWClogo.png
     alt: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
     title: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
-  - url: https://www.visitsealife.com/brighton/
-    image_path: /assets/images/SEALIFEBrightonLogo.png
-    alt: "Sea Life Brighton"
-    title: "Sea Life Brighton"
 ---
 
-{% include toc icon="anchor" title="Surprising Minds" %}
+{% include toc title="Surprising Minds on YouTube" %}
 
 In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make research in neuroscience and cognitive science more inclusive and accessible to the general public. 
 
