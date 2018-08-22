@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Surprising Minds"
+title                    : "Surprising Minds on YouTube"
 title_separator          : "|"
-name                     : "Surprising Minds"
-description              : "Surprising Minds is an exhibit at the Sea Life Centre in Brighton, UK, which explores a new way to ask scientific questions about behaviour and the mind 'in the wild'."
+name                     : "Surprising Minds on YouTube"
+description              : "An interactive field neuroscience experiment that uses a mobile eye-tracking and -recording setup into Regent's Park!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
