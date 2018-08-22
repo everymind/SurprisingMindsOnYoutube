@@ -1,0 +1,64 @@
+# main links
+main:
+  - title: "Surprising Minds"
+    url: /
+  - title: "Project Blog"
+    url: /blog/
+  - title: "Dataset"
+    url: /dataset/
+  - title: "Gallery"
+    url: /gallery/
+
+# project documentation
+docs: 
+  - title: "Introduction"
+    url: / 
+    children: 
+      - title: "Français"
+        url: /fr/
+      - title: "Deutsche"
+        url: /de/
+      - title: "Italiano"
+        url: /it/
+      - title: "中文"
+        url: /ch/
+      - title: "Español"
+        url: /es/
+      - title: "Português"
+        url: /pt/
+      - title: "Ελληνικά"
+        url: /el/
+      - title: "Nederlands"
+        url: /nd/
+      - title: "Română"
+        url: /ro/
+      - title: "한국어"
+        url: /kr/
+    
+  - title: "Background"  
+    children:
+      - title: "Eye tracking for Neuroscience"
+        url: /Eye-tracking/
+      - title: "Behavior 'in the wild'"
+        url: /Behavior-in-the-wild/
+        
+#  - title: "Building the Exhibit"
+#    children: 
+#      - title: "Our Scientific Goals"
+#        url: /Scientific-goals/
+#      - title: "The Interactive Station"
+#        url: /Interactive-station/
+#      - title: "The Software"
+#        url: /Software/
+#        
+  - title: "Phase 1: Summer Prototype"
+    children: 
+      - title: "Daily Reports"
+        url: /daily%20report/surprisingminds-daily-report-July-11-2017/
+      - title: "Summary of Summer Prototype"
+        url: /documentation/summary-of-summer-prototype/
+      - title: "Other documentation"
+        url: /categories/#documentation
+        
+        
+
