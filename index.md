@@ -20,9 +20,11 @@ gallery:
 
 {% include toc title="Surprising Minds on YouTube" %}
 
-In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make research in neuroscience and cognitive science more inclusive and accessible to the general public. 
+Youtube, the world’s most popular video streaming site, has now been capturing the attention of millions for over ten years. This includes, but is not limited to, the platform’s growing audience of young children, with studies suggesting that over half of 3-4 year olds and a staggering 90% of 12-15 year olds are using the platform on a regular basis. But what is it that makes these videos so compelling to the brains of the young and old alike? And more pressingly what are the impacts of the ever increasing levels of screen time doing to developing minds? 
 
-Our exhibit is located next to the cuttlefish display tank in the main arcade of Sea Life Brighton. Here we introduce Sea Life visitors to the main idea underlying **comparative neuroscience**: even brains that look totally different can evolve the same kinds of brain "powers", for example, the power of "intelligence". 
+The project, Surprising Minds on YouTube, utilises the huge dataset that Youtube has inadvertently built up about human compulsion and behaviour in the form of views, likes and comments, alongside eye tracking software, to explore how people of different ages respond to some of the most popular videos on Youtube. From our data we hope to gain an insight into the neuroscience behind one of the most popular pastimes of our generation, exploring how age, and subsequently the brain’s development, may affect how we react to different clips.
+
+The study was also conducted ‘in the wild’, outside of the traditional laboratory setting, with the aim of learning more about the benefits and challenges of conducting field neuroscience. From it we hoped to gauge the potential of carrying out more experiments in a similar manner with the aim of increasing public engagement with research, challenging perceptions of how science is carried out and raising awareness of this emerging field.
 
 ## What is 'intelligence'?
 
