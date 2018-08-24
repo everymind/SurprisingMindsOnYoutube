@@ -20,27 +20,17 @@ gallery:
 
 {% include toc title="Surprising Minds on YouTube" %}
 
+YouTube was created in February 2005 as a website where users can upload, share, and view videos for free. By collecting stats such as view counts, likes, and shares from a global community for over 10 years, YouTube has inadvertently collected an incredible dataset about human behavior, communication, and audio-visual perception. We want to explore this dataset and study the question, how do people of different ages watch the same YouTube video?
+
+Here we present the results of our first project studying the impact of technology on our minds. This project also serves as a proof-of-concept for methods and techniques that can enable Field Neuroscience, or the experimental study of neuroscience outside the lab, or "in the wild".
+
+## Why YouTube?
+
 Youtube, the world’s most popular video streaming site, has now been capturing the attention of millions for over ten years. This includes, but is not limited to, the platform’s growing audience of young children, with studies suggesting that over half of 3-4 year olds and a staggering 90% of 12-15 year olds are using the platform on a regular basis. But what is it that makes these videos so compelling to the brains of the young and old alike? And more pressingly what are the impacts of the ever increasing levels of screen time doing to developing minds? 
 
 The project, Surprising Minds on YouTube, utilises the huge dataset that Youtube has inadvertently built up about human compulsion and behaviour in the form of views, likes and comments, alongside eye tracking software, to explore how people of different ages respond to some of the most popular videos on Youtube. From our data we hope to gain an insight into the neuroscience behind one of the most popular pastimes of our generation, exploring how age, and subsequently the brain’s development, may affect how we react to different clips.
 
 The study was also conducted ‘in the wild’, outside of the traditional laboratory setting, with the aim of learning more about the benefits and challenges of conducting field neuroscience. From it we hoped to gauge the potential of carrying out more experiments in a similar manner with the aim of increasing public engagement with research, challenging perceptions of how science is carried out and raising awareness of this emerging field.
-
-## What is 'intelligence'?
-
-Intelligence is the power of brains to predict the world. It helps us learn what to expect next!
-
-We use our expectations all the time by creating a model in our minds of "how things should work." Scientists call this your "model of the world".
-
-## How do we create our 'model of the world'?
-
-We create our "model of the world" by collecting information about the world around us. While smells, sounds, tastes, feelings, and experiences are all part of our "model of the world", the primary input device of human brains is our eyes. 
-
-## What your eyes do when you create your 'model of the world'?
-
-Looking is one of the first behaviours we develop as infants, long before we learn how to talk. But have you ever seen your own eyes up close, to see what they do when they collect information about the world around you? 
-
-At the Surprising Minds exhibit, you can do exactly that! Come watch a 30-second video clip while we record your eyes up close. Then we'll replay the recording so that you can see what your eyes do when you watch movies, or look at the world!
 
 ## Want to learn more?
 
